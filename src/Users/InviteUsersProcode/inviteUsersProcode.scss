@@ -1,0 +1,34 @@
+.invite-user-wrapper {
+  .ant-form-item-control {
+    line-height: 20px;
+  }
+  .ant-select-selection__choice {
+    font-family: 'OpenSans-Bold';
+    border-radius: 12px;
+    .ant-select-selection__choice__content {
+      color: #124dbb !important;
+    }
+  }
+  .ant-upload-drag {
+    min-height: 40px;
+    width: 70%;
+    padding: 0 2px;
+    text-align: left;
+    .ant-upload-btn {
+      padding: 5px 0;
+    }
+  }
+
+  @media (max-width: 1199.98px) {
+    .ant-upload-drag {
+      width: 90%;
+    }
+  }
+}
+
+@media (max-width: 767.98px) {
+  .procode-content {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+}

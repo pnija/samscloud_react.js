@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="23px" viewBox="0 0 21 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Icons / z-nested / icon glyphs / utility /checkin</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-4.0%" y="-14.1%" width="108.1%" height="132.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M8.30769231,0.615384615 C5.07692308,0.615384615 2.46153846,3.23076923 2.46153846,6.49230769 C2.46153846,10.5538462 6.64615385,14.2769231 7.93846154,15.2615385 C8.15384615,15.4461538 8.46153846,15.4461538 8.70769231,15.2615385 C10,14.2461538 14.1538462,10.5538462 14.1538462,6.49230769 C14.1538462,3.23076923 11.5384615,0.615384615 8.30769231,0.615384615 Z M8.30769231,8.92307692 C6.95384615,8.92307692 5.84615385,7.81538462 5.84615385,6.46153846 C5.84615385,5.10769231 6.95384615,4 8.30769231,4 C9.66153846,4 10.7692308,5.10769231 10.7692308,6.46153846 C10.7692308,7.81538462 9.66153846,8.92307692 8.30769231,8.92307692 Z" id="path-2"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="create-org-items" transform="translate(-562.000000, -1124.000000)">
+            <g id="Group-36" filter="url(#filter-1)" transform="translate(546.000000, 1107.000000)">
+                <g id="Group-21">
+                    <g id="Desktop-Components-/Card/With-Header-and-Button">
+                        <g id="Group-23">
+                            <g id="Icons-/-z-nested-/-icon-glyphs-/-utility-/checkin" transform="translate(18.052023, 19.000000)">
+                                <mask id="mask-3" fill="white">
+                                    <use xlink:href="#path-2"></use>
+                                </mask>
+                                <use id="Mask" fill="#000000" fill-rule="evenodd" xlink:href="#path-2"></use>
+                                <g id="z-nested-/-Icon-Color-/-PALETTE_GRAY_1" mask="url(#mask-3)" fill="#FFFFFF" fill-rule="evenodd">
+                                    <g id="z-nested-/-Color-Tokens-/-PALETTE_GRAY_1">
+                                        <rect id="Rectangle" x="0" y="0" width="16" height="16"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+.invite-user-wrapper {
+  .ant-form-item-control {
+    line-height: 20px;
+  }
+  .ant-select-selection__choice {
+    font-family: 'OpenSans-Bold';
+    border-radius: 12px;
+    .ant-select-selection__choice__content {
+      color: #124dbb !important;
+    }
+  }
+}

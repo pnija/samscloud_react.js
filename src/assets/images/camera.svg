@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="25px" viewBox="0 0 38 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-4.4%" y="-18.5%" width="108.9%" height="143.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M42.7820513,21.2546816 L35.7307692,26.2846442 L35.7307692,22.7191011 C35.7307692,21.7640449 34.9615385,21 34,21 L15.7307692,21 C14.7692308,21 14,21.7640449 14,22.7191011 L14,36.2808989 C14,37.2359551 14.7692308,38 15.7307692,38 L34.0641026,38 C35.025641,38 35.7948718,37.2359551 35.7948718,36.2808989 L35.7948718,32.7790262 L42.7820513,37.7453184 C43.2307692,38.1910112 44,37.8726592 44,37.2359551 L44,21.7640449 C44,21.1273408 43.2307692,20.8089888 42.7820513,21.2546816 L42.7820513,21.2546816 Z" id="path-2"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Add-organization-Zones" transform="translate(-1226.000000, -206.000000)">
+            <g id="Group-75" transform="translate(1207.000000, 40.000000)">
+                <g id="Group-74">
+                    <g id="Group-66" transform="translate(0.000000, 68.000000)">
+                        <g id="Group-60">
+                            <g id="Group-3">
+                                <g id="Group-61">
+                                    <g id="Group-65" filter="url(#filter-1)" transform="translate(9.000000, 79.000000)">
+                                        <mask id="mask-3" fill="white">
+                                            <use xlink:href="#path-2"></use>
+                                        </mask>
+                                        <use id="Mask" fill="#043491" xlink:href="#path-2"></use>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

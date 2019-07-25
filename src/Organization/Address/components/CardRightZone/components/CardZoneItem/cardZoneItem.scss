@@ -1,0 +1,31 @@
+.card-zone-item-wrapper {
+    .ant-form-item-control {
+      line-height: 20px;
+    }
+    .ant-select-selection__choice {
+      font-family: 'OpenSans-Bold';
+      border-radius: 12px;
+      .ant-select-selection__choice__content {
+        color: #124dbb !important;
+      }
+    }
+    .ant-tooltip {
+      display: block;
+      box-shadow: '0 2px 3px 0 rgba(0, 0, 0, 0.28)';
+    }
+    .ant-upload-drag {
+      height: 40px;
+      width: 70%;
+      padding: 0 2px;
+      text-align: left;
+      .ant-upload-btn {
+        padding: 5px 0;
+      }
+    }
+    @media (max-width: 1199.98px) {
+      .ant-upload-drag {
+        width: 90%;
+      }
+    }
+  }
+  

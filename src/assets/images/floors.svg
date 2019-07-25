@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="24px" viewBox="0 0 21 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Icons / z-nested / icon glyphs / utility /checkin</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-4.0%" y="-14.1%" width="108.1%" height="132.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M14.5846154,11.9846154 L8.8,15.2769231 C8.49230769,15.4615385 8.09230769,15.4615385 7.78461538,15.2769231 L2.03076923,11.9846154 C1.78461538,11.8615385 1.78461538,11.5538462 2.03076923,11.4307692 L3.38461538,10.6615385 C3.47692308,10.6 3.6,10.6 3.69230769,10.6615385 L7.2,12.6615385 C7.53846154,12.8461538 7.90769231,12.9384615 8.30769231,12.9384615 C8.70769231,12.9384615 9.07692308,12.8461538 9.41538462,12.6615385 L12.9230769,10.6615385 C13.0153846,10.6 13.1384615,10.6 13.2307692,10.6615385 L14.5846154,11.4307692 C14.8307692,11.5538462 14.8307692,11.8615385 14.5846154,11.9846154 L14.5846154,11.9846154 Z M14.5846154,8.29230769 L8.8,11.5846154 C8.49230769,11.7692308 8.09230769,11.7692308 7.78461538,11.5846154 L2.03076923,8.29230769 C1.78461538,8.16923077 1.78461538,7.86153846 2.03076923,7.73846154 L3.38461538,6.96923077 C3.47692308,6.90769231 3.6,6.90769231 3.69230769,6.96923077 L7.2,8.96923077 C7.53846154,9.15384615 7.90769231,9.24615385 8.30769231,9.24615385 C8.70769231,9.24615385 9.07692308,9.15384615 9.41538462,8.96923077 L12.9230769,6.96923077 C13.0153846,6.90769231 13.1384615,6.90769231 13.2307692,6.96923077 L14.5846154,7.73846154 C14.8307692,7.86153846 14.8307692,8.16923077 14.5846154,8.29230769 L14.5846154,8.29230769 Z M7.84615385,7.89230769 L2.06153846,4.6 C1.81538462,4.47692308 1.81538462,4.16923077 2.06153846,4.04615385 L7.84615385,0.753846154 C8.15384615,0.569230769 8.55384615,0.569230769 8.86153846,0.753846154 L14.6461538,4.04615385 C14.8923077,4.16923077 14.8923077,4.47692308 14.6461538,4.6 L8.86153846,7.89230769 C8.55384615,8.04615385 8.15384615,8.04615385 7.84615385,7.89230769 Z" id="path-2"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Create-Organization---ADD-ADDRESS" transform="translate(-124.000000, -451.000000)">
+            <g id="Group-9" transform="translate(98.000000, 163.000000)">
+                <g id="Group-21" filter="url(#filter-1)" transform="translate(10.000000, 271.000000)">
+                    <g id="Desktop-Components-/Card/With-Header-and-Button">
+                        <g id="Group-23">
+                            <g id="Icons-/-z-nested-/-icon-glyphs-/-utility-/standard-objects" transform="translate(18.052023, 19.000000)">
+                                <mask id="mask-3" fill="white">
+                                    <use xlink:href="#path-2"></use>
+                                </mask>
+                                <use id="Mask" fill="#000000" fill-rule="evenodd" xlink:href="#path-2"></use>
+                                <g id="z-nested-/-Icon-Color-/-PALETTE_GRAY_1" mask="url(#mask-3)" fill="#FFFFFF" fill-rule="evenodd">
+                                    <g id="z-nested-/-Color-Tokens-/-PALETTE_GRAY_1">
+                                        <rect id="Rectangle" x="0" y="0" width="16" height="16"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

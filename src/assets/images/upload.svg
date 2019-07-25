@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="31px" viewBox="0 0 32 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Icons / z-nested / icon glyphs / utility /upload</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-4.4%" y="-18.5%" width="108.9%" height="143.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M22.3846154,14.3307692 L21,14.3307692 C20.6307692,14.3307692 20.3076923,14.7 20.3076923,15.0230769 L20.3076923,19.6384615 C20.3076923,20.0076923 19.9846154,20.3307692 19.6153846,20.3307692 L4.38461538,20.3307692 C4.01538462,20.3307692 3.69230769,20.0076923 3.69230769,19.6384615 L3.69230769,15.0230769 C3.69230769,14.7 3.36923077,14.3307692 3,14.3307692 L1.61538462,14.3307692 C1.24615385,14.3307692 0.923076923,14.7 0.923076923,15.0230769 L0.923076923,21.2538462 C0.923076923,22.2692308 1.75384615,23.1 2.76923077,23.1 L21.2307692,23.1 C22.2461538,23.1 23.0769231,22.2692308 23.0769231,21.2538462 L23.0769231,15.0230769 C23.0769231,14.7 22.7538462,14.3307692 22.3846154,14.3307692 Z M12.4615385,1.13076923 C12.1846154,0.853846154 11.7692308,0.853846154 11.4923077,1.13076923 L5.26153846,7.36153846 C4.98461538,7.63846154 4.98461538,8.05384615 5.26153846,8.33076923 L6.23076923,9.3 C6.50769231,9.57692308 6.92307692,9.57692308 7.2,9.3 L9.78461538,6.71538462 C10.0615385,6.43846154 10.6153846,6.62307692 10.6153846,7.03846154 L10.6153846,16.8230769 C10.6153846,17.1923077 10.8923077,17.5153846 11.2615385,17.5153846 L12.6461538,17.5153846 C13.0153846,17.5153846 13.3846154,17.1461538 13.3846154,16.8230769 L13.3846154,7.08461538 C13.3846154,6.66923077 13.8461538,6.48461538 14.1692308,6.76153846 L16.7538462,9.34615385 C17.0307692,9.62307692 17.4461538,9.62307692 17.7230769,9.34615385 L18.6923077,8.37692308 C18.9692308,8.1 18.9692308,7.68461538 18.6923077,7.40769231 L12.4615385,1.13076923 L12.4615385,1.13076923 Z" id="path-2"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Add-organization-Zones" transform="translate(-378.000000, -554.000000)">
+            <g id="Group-73" filter="url(#filter-1)" transform="translate(112.000000, 534.000000)">
+                <g id="Icons-/-z-nested-/-icon-glyphs-/-utility-/upload" transform="translate(270.000000, 21.000000)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Mask" fill="#000000" xlink:href="#path-2"></use>
+                    <g id="z-nested-/-Color-Tokens-/-DEEP_COVE" mask="url(#mask-3)" fill="#061C3F">
+                        <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
